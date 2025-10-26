@@ -1,4 +1,3 @@
-# expense-tracker-python
 
 Personal Expense Tracker (Python)
 =================================
